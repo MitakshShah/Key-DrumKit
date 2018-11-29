@@ -1,7 +1,8 @@
 html {
   font-size: 10px;
-  background: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/Vd3bj2jPe/videoblocks-musical-drums-kit-on-black-background-set-drums-close-up-of-white-drum-set-on-dark-background-percussion-instruments-instruments-drummer-drum-tools-music-drum-plate-musical-instruments_hzrqfqrr0x_thumbnail-full01.png) bottom center;
+  background: url(../img/drum.jpeg) bottom center;
   background-size: cover;
+  opcaity: 0.5;
 }
 body,html {
   margin: 0;
